@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586630346027",
+    "project_id": "whats-for-dinner-606",
+    "storage_bucket": "whats-for-dinner-606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586630346027:android:b81b5d76bf5a730be5816e",
+        "android_client_info": {
+          "package_name": "com.malgorzatamyslicka.whats_for_dinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586630346027-nvk4srbid13qdpf4r623o43qi8hiaj31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBSORefJiUTpNTpVKtfqwvPsnLaQ3DMDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586630346027-nvk4srbid13qdpf4r623o43qi8hiaj31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -8,7 +8,7 @@
 PRODUCT_NAME = whats_for_dinner
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.whatsForDinner
+PRODUCT_BUNDLE_IDENTIFIER = com.malgorzatamyslicka.whatsForDinner
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.malgorzatamyslicka. All rights reserved.
